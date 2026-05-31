@@ -98,7 +98,7 @@ INDEX.html:
 
 </body>
 </html>
-~~~
+```
 ## OUTPUT
 CLIENT(download):
 
